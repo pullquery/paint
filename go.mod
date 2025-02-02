@@ -1,4 +1,4 @@
-module colors
+module paint
 
 go 1.19
 
