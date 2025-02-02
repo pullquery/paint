@@ -3,9 +3,6 @@
 | WASD | ↑ ← ↓ → |
 |    R | CLEAR   |
 |    Q | EXIT    |
-
-|  KEY | COLOR   |
-|-----:|:--------|
 |    ` | WHITE   |
 |    1 | RED     |
 |    2 | GREEN   |
